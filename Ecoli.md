@@ -1,4 +1,4 @@
-# proteins
+#Proteins
 ##Glycine decarboxylase
 The system is a series of enzymes that are triggered in response to high concentrations of the amino acid glycine. 
 The same set of enzymes is sometimes referred to as glycine synthase when it runs in the reverse direction to form glycine
